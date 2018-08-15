@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kevin Zhou on Kevin Zhou</title>
-    <link>/</link>
+    <link>https://knzhou.github.io/</link>
     <description>Recent content in Kevin Zhou on Kevin Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,28 +12,28 @@
     
     <item>
       <title>Generalized Fragmentation Functions for Fractal Jet Observables</title>
-      <link>/publication/fractal/</link>
+      <link>https://knzhou.github.io/publication/fractal/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0100</pubDate>
       
-      <guid>/publication/fractal/</guid>
+      <guid>https://knzhou.github.io/publication/fractal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Casimir Meets Poisson: Improved Quark/Gluon Discrimination with Counting Observables</title>
-      <link>/publication/casimirpoisson/</link>
+      <link>https://knzhou.github.io/publication/casimirpoisson/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0100</pubDate>
       
-      <guid>/publication/casimirpoisson/</guid>
+      <guid>https://knzhou.github.io/publication/casimirpoisson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimum Energetic Cost to Maintain a Target Nonequilibrium State</title>
-      <link>/publication/nonequil/</link>
+      <link>https://knzhou.github.io/publication/nonequil/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0100</pubDate>
       
-      <guid>/publication/nonequil/</guid>
+      <guid>https://knzhou.github.io/publication/nonequil/</guid>
       <description></description>
     </item>
     

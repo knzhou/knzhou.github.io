@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Kevin Zhou</title>
-    <link>/home/</link>
+    <link>https://knzhou.github.io/home/</link>
     <description>Recent content in Homes on Kevin Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://knzhou.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://knzhou.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://knzhou.github.io/home/about/</guid>
       <description>Biography I&amp;rsquo;m a graduate student interested in particle phenomenology, biophysics, and physics education. I&amp;rsquo;m currently spending two years in the UK as a Marshall scholar, and plan to begin a PhD at Stanford in 2019 funded by an NSF Graduate Research fellowship. A complete CV is available here.
 I got started by devouring the scifi section of my local public library, but it wasn&amp;rsquo;t until watching Particle Fever in college that I knew what I wanted to be.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/home/publications/</link>
+      <link>https://knzhou.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>https://knzhou.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>/home/talks/</link>
+      <link>https://knzhou.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>https://knzhou.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>/home/posts/</link>
+      <link>https://knzhou.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>https://knzhou.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>https://knzhou.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>https://knzhou.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lecture Notes</title>
-      <link>/home/lectures/</link>
+      <link>https://knzhou.github.io/home/lectures/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/home/lectures/</guid>
+      <guid>https://knzhou.github.io/home/lectures/</guid>
       <description>Below are some of the notes I&amp;rsquo;ve taken during my time learning physics. Notes for Cambridge&amp;rsquo;s Part III Maths courses contain all the material that was lectured, but also a substantial amount of extra follow-up material. The notes are generally quite terse, by design.
  Undergraduate Physics Undergraduate Math Geometry and Topology Group Theory Statistical Field Theory Condensed Matter General Relativity Quantum Field Theory Supersymmetry  If you find any errors or have suggestions for improvements, please email me.</description>
     </item>
     
     <item>
       <title>Tutoring</title>
-      <link>/home/tutoring/</link>
+      <link>https://knzhou.github.io/home/tutoring/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/home/tutoring/</guid>
+      <guid>https://knzhou.github.io/home/tutoring/</guid>
       <description>I offer tutoring for the USA Physics Olympiad (USAPhO) and the International Physics Olympiad (IPhO). I competed at the IPhO in 2012 and 2013, and have taught at the US Physics Team training camp for three years. I got into the tutoring business last year, where two of my students qualified for the US Physics Team and one won a gold medal at the IPhO.
 The tutoring program is designed for students who are aiming for USAPhO gold medals, or to qualify for the US Physics Team or IPhO.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://knzhou.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://knzhou.github.io/home/contact/</guid>
       <description>I&amp;rsquo;m active (perhaps too active) on Physics StackExchange. If you want to ask me about physics, feel free to message me in the h bar or email me.</description>
     </item>
     
