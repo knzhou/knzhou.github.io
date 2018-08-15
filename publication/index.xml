@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Kevin Zhou</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Kevin Zhou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generalized Fragmentation Functions for Fractal Jet Observables</title>
+      <link>/publication/fractal/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/fractal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casimir Meets Poisson: Improved Quark/Gluon Discrimination with Counting Observables</title>
+      <link>/publication/casimirpoisson/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/casimirpoisson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum Energetic Cost to Maintain a Target Nonequilibrium State</title>
+      <link>/publication/nonequil/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/nonequil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

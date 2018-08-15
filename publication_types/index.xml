@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types on Kevin Zhou</title>
+    <link>/publication_types/</link>
+    <description>Recent content in Publication_types on Kevin Zhou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
