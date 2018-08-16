@@ -32,6 +32,35 @@ I got started by devouring the scifi section of my local public library, but it 
     </item>
     
     <item>
+      <title>Lecture Notes</title>
+      <link>https://knzhou.github.io/home/lectures/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://knzhou.github.io/home/lectures/</guid>
+      <description>These are some notes I&amp;rsquo;ve taken while learning physics. Nothing in them is original; the explanations (and diagrams) are aggregated from many sources. These notes are provided &amp;ldquo;as is&amp;rdquo;, with no guarantee of correctness, but do tell me if you find an error!
+Undergraduate (MIT) I wrote these notes to summarize foundational undergraduate material. They roughly follow both the MIT undergraduate sequence and Part I and II of the Cambridge physics sequence.</description>
+    </item>
+    
+    <item>
+      <title>Tutoring</title>
+      <link>https://knzhou.github.io/home/tutoring/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://knzhou.github.io/home/tutoring/</guid>
+      <description>I offer tutoring for the USA Physics Olympiad (USAPhO) and the International Physics Olympiad (IPhO). I competed at the IPhO in 2012 and 2013, and have taught at the US Physics Team training camp for three years. I got into the tutoring business last year, where two of my students qualified for the US Physics Team and one won a gold medal at the IPhO.
+The tutoring program is designed for students who are aiming for USAPhO gold medals, or to qualify for the US Physics Team or IPhO.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://knzhou.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://knzhou.github.io/home/contact/</guid>
+      <description>I&amp;rsquo;m active (perhaps too active) on Physics StackExchange. If you want to chat, feel free to email or ping me in the h bar.</description>
+    </item>
+    
+    <item>
       <title>Talks</title>
       <link>https://knzhou.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
@@ -56,35 +85,6 @@ I got started by devouring the scifi section of my local public library, but it 
       
       <guid>https://knzhou.github.io/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Lecture Notes</title>
-      <link>https://knzhou.github.io/home/lectures/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://knzhou.github.io/home/lectures/</guid>
-      <description>Below are some of the notes I&amp;rsquo;ve taken during my time learning physics. Notes for Cambridge&amp;rsquo;s Part III Maths courses contain all the material that was lectured, but also a substantial amount of extra follow-up material. The notes are generally quite terse, by design.
- Undergraduate Physics Undergraduate Math Geometry and Topology Group Theory Statistical Field Theory Condensed Matter General Relativity Quantum Field Theory Supersymmetry  If you find any errors or have suggestions for improvements, please email me.</description>
-    </item>
-    
-    <item>
-      <title>Tutoring</title>
-      <link>https://knzhou.github.io/home/tutoring/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://knzhou.github.io/home/tutoring/</guid>
-      <description>I offer tutoring for the USA Physics Olympiad (USAPhO) and the International Physics Olympiad (IPhO). I competed at the IPhO in 2012 and 2013, and have taught at the US Physics Team training camp for three years. I got into the tutoring business last year, where two of my students qualified for the US Physics Team and one won a gold medal at the IPhO.
-The tutoring program is designed for students who are aiming for USAPhO gold medals, or to qualify for the US Physics Team or IPhO.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://knzhou.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://knzhou.github.io/home/contact/</guid>
-      <description>I&amp;rsquo;m active (perhaps too active) on Physics StackExchange. If you want to ask me about physics, feel free to message me in the h bar or email me.</description>
     </item>
     
   </channel>
