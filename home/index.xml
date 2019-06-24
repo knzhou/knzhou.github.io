@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://knzhou.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://knzhou.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://knzhou.github.io/home/about/</guid>
       <description>Biography I&amp;rsquo;m a graduate student interested in particle phenomenology, biophysics, and physics education. I&amp;rsquo;m currently spending two years in the UK as a Marshall scholar, and plan to begin a PhD at Stanford in 2019 funded by an NSF Graduate Research fellowship. A complete CV is available here.
@@ -25,7 +25,7 @@ I got started by devouring the scifi section of my local public library, but it 
     <item>
       <title>Publications</title>
       <link>https://knzhou.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://knzhou.github.io/home/publications/</guid>
       <description></description>
@@ -34,7 +34,7 @@ I got started by devouring the scifi section of my local public library, but it 
     <item>
       <title>Lecture Notes</title>
       <link>https://knzhou.github.io/home/lectures/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://knzhou.github.io/home/lectures/</guid>
       <description>These are the notes I&amp;rsquo;ve taken while learning physics. They&amp;rsquo;re very compact and don&amp;rsquo;t usually correspond closely with any particular course; instead they&amp;rsquo;re packed full of all the neat things I&amp;rsquo;ve found reading books. Currently they weigh in at just over 400,000 words.
@@ -45,7 +45,7 @@ Undergraduate (MIT) These notes summarize undergraduate material. They roughly c
     <item>
       <title>Tutoring</title>
       <link>https://knzhou.github.io/home/tutoring/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://knzhou.github.io/home/tutoring/</guid>
       <description>I offer tutoring for the USA Physics Olympiad (USAPhO) and the International Physics Olympiad (IPhO). I competed at the IPhO in 2012 and 2013 and taught at the US Physics Team training camp in 2015 through 2017.
@@ -55,7 +55,7 @@ The tutoring program is designed for students aiming for gold medals at the USAP
     <item>
       <title>Writing</title>
       <link>https://knzhou.github.io/home/writing/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://knzhou.github.io/home/writing/</guid>
       <description>Learning A lot of people ask me for advice for learning physics or preparing for the F=ma and USAPhO exams. Here&amp;rsquo;s a summary of what I know.
@@ -65,7 +65,7 @@ The tutoring program is designed for students aiming for gold medals at the USAP
     <item>
       <title>Contact</title>
       <link>https://knzhou.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://knzhou.github.io/home/contact/</guid>
       <description>I&amp;rsquo;m active (perhaps too active) on Physics StackExchange. If you want to chat, feel free to email or ping me in the h bar.</description>
@@ -74,7 +74,7 @@ The tutoring program is designed for students aiming for gold medals at the USAP
     <item>
       <title>Talks</title>
       <link>https://knzhou.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://knzhou.github.io/home/talks/</guid>
       <description></description>
@@ -83,7 +83,7 @@ The tutoring program is designed for students aiming for gold medals at the USAP
     <item>
       <title>Posts</title>
       <link>https://knzhou.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://knzhou.github.io/home/posts/</guid>
       <description></description>
@@ -92,7 +92,7 @@ The tutoring program is designed for students aiming for gold medals at the USAP
     <item>
       <title>Projects</title>
       <link>https://knzhou.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://knzhou.github.io/home/projects/</guid>
       <description></description>
