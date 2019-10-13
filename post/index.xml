@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Kevin Zhou</title>
+    <title>Posts | Kevin Zhou</title>
     <link>https://knzhou.github.io/post/</link>
-    <description>Recent content in Posts on Kevin Zhou</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
-    
-	<atom:link href="https://knzhou.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://knzhou.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <image>
+      <url>https://knzhou.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://knzhou.github.io/post/</link>
+    </image>
     
   </channel>
 </rss>

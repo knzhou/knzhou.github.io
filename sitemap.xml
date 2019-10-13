@@ -1,106 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://knzhou.github.io/publication/fractal/</loc>
-      <lastmod>2017-06-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://knzhou.github.io/publication_types/2/</loc>
+    <lastmod>2017-06-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://knzhou.github.io/publication/casimirpoisson/</loc>
-      <lastmod>2017-04-20T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://knzhou.github.io/authors/</loc>
+    <lastmod>2017-06-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://knzhou.github.io/publication/nonequil/</loc>
-      <lastmod>2017-04-04T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://knzhou.github.io/authors/b.-elder/</loc>
+    <lastmod>2017-06-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://knzhou.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://knzhou.github.io/publication/fractal/</loc>
+    <lastmod>2017-06-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://knzhou.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://knzhou.github.io/authors/j.-thaler/</loc>
+    <lastmod>2017-06-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://knzhou.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://knzhou.github.io/authors/k.-zhou/</loc>
+    <lastmod>2017-06-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://knzhou.github.io/publication_types/2/</loc>
-      <lastmod>2017-06-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://knzhou.github.io/</loc>
+    <lastmod>2017-06-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://knzhou.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://knzhou.github.io/authors/m.-procura/</loc>
+    <lastmod>2017-06-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://knzhou.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://knzhou.github.io/publication_types/</loc>
+    <lastmod>2017-06-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://knzhou.github.io/publication_types/</loc>
-      <lastmod>2017-06-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://knzhou.github.io/publication/</loc>
+    <lastmod>2017-06-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://knzhou.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://knzhou.github.io/authors/w.-wallewijn/</loc>
+    <lastmod>2017-06-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/authors/a.-larkoski/</loc>
+    <lastmod>2017-04-20T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/authors/c.-frye/</loc>
+    <lastmod>2017-04-20T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/publication/casimirpoisson/</loc>
+    <lastmod>2017-04-20T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/authors/j.-england/</loc>
+    <lastmod>2017-04-04T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/authors/j.-horowitz/</loc>
+    <lastmod>2017-04-04T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/publication/nonequil/</loc>
+    <lastmod>2017-04-04T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/tags/</loc>
+  </url>
   
 </urlset>
