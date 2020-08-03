@@ -5,7 +5,7 @@
     <link>https://knzhou.github.io/authors/</link>
       <atom:link href="https://knzhou.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,32 @@
     <item>
       <title>A. Berlin</title>
       <link>https://knzhou.github.io/authors/a.-berlin/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://knzhou.github.io/authors/a.-berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Zhou</title>
+      <link>https://knzhou.github.io/authors/k.-zhou/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/k.-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Tito D&#39;Agnolo</title>
+      <link>https://knzhou.github.io/authors/r.-tito-dagnolo/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/r.-tito-dagnolo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Ellis</title>
+      <link>https://knzhou.github.io/authors/s.-ellis/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/s.-ellis/</guid>
       <description></description>
     </item>
     
@@ -37,14 +61,6 @@
     </item>
     
     <item>
-      <title>K. Zhou</title>
-      <link>https://knzhou.github.io/authors/k.-zhou/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://knzhou.github.io/authors/k.-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>N. Toro</title>
       <link>https://knzhou.github.io/authors/n.-toro/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
@@ -57,22 +73,6 @@
       <link>https://knzhou.github.io/authors/p.-schuster/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://knzhou.github.io/authors/p.-schuster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. Tito D&#39;Agnolo</title>
-      <link>https://knzhou.github.io/authors/r.-tito-dagnolo/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://knzhou.github.io/authors/r.-tito-dagnolo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Ellis</title>
-      <link>https://knzhou.github.io/authors/s.-ellis/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://knzhou.github.io/authors/s.-ellis/</guid>
       <description></description>
     </item>
     
