@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Kevin Zhou</title>
-    <link>https://knzhou.github.io/publication_types/3/</link>
-      <atom:link href="https://knzhou.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>A. Das | Kevin Zhou</title>
+    <link>https://knzhou.github.io/authors/a.-das/</link>
+      <atom:link href="https://knzhou.github.io/authors/a.-das/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Das</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
-      <title>3</title>
-      <link>https://knzhou.github.io/publication_types/3/</link>
+      <title>A. Das</title>
+      <link>https://knzhou.github.io/authors/a.-das/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://knzhou.github.io/publication/dmstar/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://knzhou.github.io/publication/dmstar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heterodyne Broadband Detection of Axion Dark Matter</title>
-      <link>https://knzhou.github.io/publication/axionfc2/</link>
-      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://knzhou.github.io/publication/axionfc2/</guid>
       <description></description>
     </item>
     
