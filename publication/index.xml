@@ -5,12 +5,20 @@
     <link>https://knzhou.github.io/publication/</link>
       <atom:link href="https://knzhou.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://knzhou.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Discovering QCD-Coupled Axion Dark Matter with Polarization Haloscopes</title>
+      <link>https://knzhou.github.io/publication/qcdaxion/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/publication/qcdaxion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Probing Invisible Vector Meson Decays with NA64 and LDMX</title>
