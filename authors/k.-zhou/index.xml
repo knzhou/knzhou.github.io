@@ -5,12 +5,20 @@
     <link>https://knzhou.github.io/authors/k.-zhou/</link>
       <atom:link href="https://knzhou.github.io/authors/k.-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
       <title>K. Zhou</title>
       <link>https://knzhou.github.io/authors/k.-zhou/</link>
     </image>
+    
+    <item>
+      <title>Interactions of Particles with &#34;Continuous Spin&#34; Fields</title>
+      <link>https://knzhou.github.io/publication/cspinteraction/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/publication/cspinteraction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Discovering QCD-Coupled Axion Dark Matter with Polarization Haloscopes</title>
