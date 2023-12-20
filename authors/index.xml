@@ -5,7 +5,7 @@
     <link>https://knzhou.github.io/authors/</link>
       <atom:link href="https://knzhou.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>A. Berlin</title>
+      <link>https://knzhou.github.io/authors/a.-berlin/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/a.-berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Millar</title>
+      <link>https://knzhou.github.io/authors/a.-millar/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/a.-millar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>K. Zhou</title>
       <link>https://knzhou.github.io/authors/k.-zhou/</link>
-      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://knzhou.github.io/authors/k.-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Trickle</title>
+      <link>https://knzhou.github.io/authors/t.-trickle/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/t.-trickle/</guid>
       <description></description>
     </item>
     
@@ -33,14 +57,6 @@
       <link>https://knzhou.github.io/authors/p.-schuster/</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://knzhou.github.io/authors/p.-schuster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Berlin</title>
-      <link>https://knzhou.github.io/authors/a.-berlin/</link>
-      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://knzhou.github.io/authors/a.-berlin/</guid>
       <description></description>
     </item>
     

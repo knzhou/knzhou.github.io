@@ -5,12 +5,20 @@
     <link>https://knzhou.github.io/authors/a.-berlin/</link>
       <atom:link href="https://knzhou.github.io/authors/a.-berlin/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Berlin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
       <title>A. Berlin</title>
       <link>https://knzhou.github.io/authors/a.-berlin/</link>
     </image>
+    
+    <item>
+      <title>Physical Signatures of Fermion-Coupled Axion Dark Matter</title>
+      <link>https://knzhou.github.io/publication/axionelectron/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/publication/axionelectron/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Discovering QCD-Coupled Axion Dark Matter with Polarization Haloscopes</title>
