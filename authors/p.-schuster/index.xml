@@ -5,12 +5,20 @@
     <link>https://knzhou.github.io/authors/p.-schuster/</link>
       <atom:link href="https://knzhou.github.io/authors/p.-schuster/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Schuster</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
       <title>P. Schuster</title>
       <link>https://knzhou.github.io/authors/p.-schuster/</link>
     </image>
+    
+    <item>
+      <title>A Prototype Hybrid Mode Cavity for Heterodyne Axion Detection</title>
+      <link>https://knzhou.github.io/publication/heterodyne/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/publication/heterodyne/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interactions of Particles with &#34;Continuous Spin&#34; Fields</title>

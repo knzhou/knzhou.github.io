@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Tantawi | Kevin Zhou</title>
-    <link>https://knzhou.github.io/authors/s.-tantawi/</link>
-      <atom:link href="https://knzhou.github.io/authors/s.-tantawi/index.xml" rel="self" type="application/rss+xml" />
-    <description>S. Tantawi</description>
+    <title>Z. Li | Kevin Zhou</title>
+    <link>https://knzhou.github.io/authors/z.-li/</link>
+      <atom:link href="https://knzhou.github.io/authors/z.-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Z. Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
-      <title>S. Tantawi</title>
-      <link>https://knzhou.github.io/authors/s.-tantawi/</link>
+      <title>Z. Li</title>
+      <link>https://knzhou.github.io/authors/z.-li/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://knzhou.github.io/publication/heterodyne/</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://knzhou.github.io/publication/heterodyne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Axion Dark Matter Detection by Superconducting Resonant Frequency Conversion</title>
-      <link>https://knzhou.github.io/publication/axionfc/</link>
-      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://knzhou.github.io/publication/axionfc/</guid>
       <description></description>
     </item>
     
