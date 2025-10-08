@@ -5,12 +5,20 @@
     <link>https://knzhou.github.io/</link>
       <atom:link href="https://knzhou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
       <title>Kevin Zhou</title>
       <link>https://knzhou.github.io/</link>
     </image>
+    
+    <item>
+      <title>Intrinsically Quantum Effects of Axion Dark Matter are Undetectable</title>
+      <link>https://knzhou.github.io/publication/quantum/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/publication/quantum/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Prototype Hybrid Mode Cavity for Heterodyne Axion Detection</title>

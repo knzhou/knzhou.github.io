@@ -5,7 +5,7 @@
     <link>https://knzhou.github.io/authors/</link>
       <atom:link href="https://knzhou.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,58 @@
     </image>
     
     <item>
-      <title>A. Berlin</title>
-      <link>https://knzhou.github.io/authors/a.-berlin/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://knzhou.github.io/authors/a.-berlin/</guid>
+      <title>D. Y. Cheong</title>
+      <link>https://knzhou.github.io/authors/d.-y.-cheong/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/d.-y.-cheong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Takach</title>
+      <link>https://knzhou.github.io/authors/j.-takach/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/j.-takach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Zhou</title>
       <link>https://knzhou.github.io/authors/k.-zhou/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://knzhou.github.io/authors/k.-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L.-T. Wang</title>
+      <link>https://knzhou.github.io/authors/l.-t.-wang/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/l.-t.-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Rodd</title>
+      <link>https://knzhou.github.io/authors/n.-rodd/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/n.-rodd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Bao</title>
+      <link>https://knzhou.github.io/authors/y.-bao/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/y.-bao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Berlin</title>
+      <link>https://knzhou.github.io/authors/a.-berlin/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/a.-berlin/</guid>
       <description></description>
     </item>
     
