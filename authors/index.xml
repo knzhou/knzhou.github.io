@@ -5,12 +5,52 @@
     <link>https://knzhou.github.io/authors/</link>
       <atom:link href="https://knzhou.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://knzhou.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>F. Day</title>
+      <link>https://knzhou.github.io/authors/f.-day/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/f.-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Zhou</title>
+      <link>https://knzhou.github.io/authors/k.-zhou/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/k.-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Harnik</title>
+      <link>https://knzhou.github.io/authors/r.-harnik/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/r.-harnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Pavaskar</title>
+      <link>https://knzhou.github.io/authors/s.-pavaskar/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/s.-pavaskar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Kahn</title>
+      <link>https://knzhou.github.io/authors/y.-kahn/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/y.-kahn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>D. Y. Cheong</title>
@@ -25,14 +65,6 @@
       <link>https://knzhou.github.io/authors/j.-takach/</link>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://knzhou.github.io/authors/j.-takach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Zhou</title>
-      <link>https://knzhou.github.io/authors/k.-zhou/</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://knzhou.github.io/authors/k.-zhou/</guid>
       <description></description>
     </item>
     
