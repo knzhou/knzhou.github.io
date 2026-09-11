@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Kevin Zhou</title>
-    <link>https://knzhou.github.io/publication_types/3/</link>
-      <atom:link href="https://knzhou.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>J. Huang | Kevin Zhou</title>
+    <link>https://knzhou.github.io/authors/j.-huang/</link>
+      <atom:link href="https://knzhou.github.io/authors/j.-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Huang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026</copyright><lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
-      <title>3</title>
-      <link>https://knzhou.github.io/publication_types/3/</link>
+      <title>J. Huang</title>
+      <link>https://knzhou.github.io/authors/j.-huang/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://knzhou.github.io/publication/axial/</link>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://knzhou.github.io/publication/axial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Suppressed Quantum Effects of Weakly Coupled Waves</title>
-      <link>https://knzhou.github.io/publication/suppression/</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://knzhou.github.io/publication/suppression/</guid>
       <description></description>
     </item>
     

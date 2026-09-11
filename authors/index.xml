@@ -5,12 +5,36 @@
     <link>https://knzhou.github.io/authors/</link>
       <atom:link href="https://knzhou.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026</copyright><lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026</copyright><lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://knzhou.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://knzhou.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>A. Hook</title>
+      <link>https://knzhou.github.io/authors/a.-hook/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/a.-hook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Huang</title>
+      <link>https://knzhou.github.io/authors/j.-huang/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/j.-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Zhou</title>
+      <link>https://knzhou.github.io/authors/k.-zhou/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://knzhou.github.io/authors/k.-zhou/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>D. Y. Cheong</title>
@@ -25,14 +49,6 @@
       <link>https://knzhou.github.io/authors/j.-takach/</link>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://knzhou.github.io/authors/j.-takach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Zhou</title>
-      <link>https://knzhou.github.io/authors/k.-zhou/</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://knzhou.github.io/authors/k.-zhou/</guid>
       <description></description>
     </item>
     
