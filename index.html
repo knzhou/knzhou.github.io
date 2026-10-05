@@ -14,21 +14,14 @@
   
   
   
-  
-    
-    
-    
-  
-  
 
   <meta name="author" content="Kevin Zhou">
 
   
   
   
-    
   
-  <meta name="description" content="">
+  <meta name="description" content="Kevin Zhou&#39;s research in theoretical particle physics and dark matter, alongside physics teaching resources, lecture notes, and writing.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://knzhou.github.io/">
@@ -84,6 +77,16 @@
   <link rel="stylesheet" href="/css/academic.min.4731b10c3a8aac85ab261b8ce101e025.css">
 
   
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.9849aa202f6420a5c990333b41841a19.css">
+  
 
   
 
@@ -92,10 +95,6 @@
 
   
 
-
-  
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Kevin Zhou">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
@@ -107,17 +106,32 @@
   
   
   
+  
+  
+  
+  
+    
+    
+    
+    
     
     
   
-  
-  <meta property="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Kevin Zhou">
+  <meta name="twitter:description" content="Kevin Zhou&#39;s research in theoretical particle physics and dark matter, alongside physics teaching resources, lecture notes, and writing.">
   
   <meta property="og:site_name" content="Kevin Zhou">
+  <meta property="og:type" content="website">
   <meta property="og:url" content="https://knzhou.github.io/">
   <meta property="og:title" content="Kevin Zhou">
-  <meta property="og:description" content=""><meta property="og:image" content="https://knzhou.github.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://knzhou.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Kevin Zhou&#39;s research in theoretical particle physics and dark matter, alongside physics teaching resources, lecture notes, and writing."><meta property="og:image" content="https://knzhou.github.io/home/avatar_hucb2c4bcc00efaaa0fe22503fbeec68a5_237823_600x600_fill_q90_lanczos_center.jpg">
+  <meta property="og:image:alt" content="Portrait of Kevin Zhou">
+  <meta property="og:image:width" content="600">
+  <meta property="og:image:height" content="600">
+  <meta name="twitter:image" content="https://knzhou.github.io/home/avatar_hucb2c4bcc00efaaa0fe22503fbeec68a5_237823_600x600_fill_q90_lanczos_center.jpg">
+  <meta name="twitter:image:alt" content="Portrait of Kevin Zhou">
+  <meta property="og:locale" content="en_US">
   
     <meta property="og:updated_time" content="2026-09-09T00:00:00&#43;00:00">
   
@@ -140,7 +154,26 @@
 
   
 
-
+<script>
+  (function () {
+    var sectionPages = {
+      '#publications': "/papers/",
+      '#teaching': "/teaching/",
+      '#notes': "/writing/#notes",
+      '#writing': "/writing/"
+    };
+    function redirectSection() {
+      var destination = sectionPages[window.location.hash];
+      if (destination) {
+        var destinationURL = new URL(destination, window.location.href);
+        destinationURL.search = window.location.search;
+        window.location.replace(destinationURL.href);
+      }
+    }
+    redirectSection();
+    window.addEventListener('hashchange', redirectSection);
+  })();
+</script>
 
 
 
@@ -148,42 +181,14 @@
 
 </head>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
+<body id="top"  >
 
-  <aside class="search-results" id="search">
-  <div class="container">
-    <section class="search-header">
-
-      <div class="row no-gutters justify-content-between mb-3">
-        <div class="col-6">
-          <h1>Search</h1>
-        </div>
-        <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
-        </div>
-      </div>
-
-      <div id="search-box">
-        
-        
-        
-      </div>
-
-    </section>
-    <section class="section-search-results">
-
-      <div id="search-hits">
-        
-      </div>
-
-    </section>
-  </div>
-</aside>
-
+  
 
   
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
+    <div class="navbar-content">
 
     
       <a class="navbar-brand" href="/">Kevin Zhou</a>
@@ -207,8 +212,6 @@
         
         
         
-          
-        
 
         
         
@@ -216,16 +219,14 @@
         
         
         
-          
-          
-          
-            
-          
-          
+        
+        
+        
+        
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+          <a class="nav-link  active" href="/" aria-current="page"><span>Home</span></a>
         </li>
 
         
@@ -246,15 +247,15 @@
         
         
           
-          
-          
-            
-          
-          
+        
+        
+        
+        
+        
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications" data-target="#publications"><span>Papers</span></a>
+          <a class="nav-link " href="/research/"><span>Research</span></a>
         </li>
 
         
@@ -275,15 +276,15 @@
         
         
           
-          
-          
-            
-          
-          
+        
+        
+        
+        
+        
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#teaching" data-target="#teaching"><span>Teaching</span></a>
+          <a class="nav-link " href="/papers/"><span>Papers</span></a>
         </li>
 
         
@@ -304,15 +305,15 @@
         
         
           
-          
-          
-            
-          
-          
+        
+        
+        
+        
+        
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#notes" data-target="#notes"><span>Notes</span></a>
+          <a class="nav-link " href="/teaching/"><span>Teaching</span></a>
         </li>
 
         
@@ -333,15 +334,46 @@
         
         
           
-          
-          
-            
-          
-          
+        
+        
+        
+        
+        
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#writing" data-target="#writing"><span>Writing</span></a>
+          <a class="nav-link " href="/writing/"><span>Writing</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+          
+        
+        
+        
+          
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/other/CV.pdf"><span>CV</span></a>
         </li>
 
         
@@ -356,19 +388,17 @@
         
 
         
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
 
       </ul>
 
+    </div>
     </div>
   </div>
 </nav>
 
 
-  
+  <main id="main-content">
+    
 
 
 
@@ -431,36 +461,27 @@
 
 
 
-  
 
 
 
 
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4">
+<div class="aligned-sections about-layout">
+  <div class="about-profile">
     <div id="profile">
 
       
       
-      <img class="portrait" src="/authors/admin/avatar_hucb2c4bcc00efaaa0fe22503fbeec68a5_237823_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="portrait" src="/home/avatar_hucb2c4bcc00efaaa0fe22503fbeec68a5_237823_250x250_fill_q90_lanczos_center.jpg" alt="Portrait of Kevin Zhou">
       
 
       <div class="portrait-title">
-        <h2>Kevin Zhou</h2>
+        <h1 class="portrait-name">Kevin Zhou</h1>
         
 
         
       </div>
 
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
+      <ul class="list-unstyled mt-3 mb-0">
         
         
         
@@ -468,9 +489,15 @@
         
           
         
-        <li>
-          <a href="https://scholar.google.co.uk/citations?user=tk0iMzwAAAAJ" target="_blank" rel="noopener">
-            <i class="ai ai-google-scholar big-icon"></i>
+        <li class="mb-1">
+          <a href="https://inspirehep.net/authors/1775962" target="_blank" rel="noopener">
+            
+              
+              
+              
+              <i class="ai ai-inspire mr-1" aria-hidden="true"></i>
+            
+            InspireHEP
           </a>
         </li>
         
@@ -478,14 +505,48 @@
         
         
         
+          
+        
+        <li class="mb-1">
+          <a href="https://orcid.org/0000-0002-9810-3977" target="_blank" rel="noopener">
+            
+              
+              
+              
+              <i class="ai ai-orcid mr-1" aria-hidden="true"></i>
+            
+            ORCID
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        <li class="mb-1">
+          <a href="mailto:kzhou7@berkeley.edu" >
+            
+              
+              
+              
+                
+              
+              <i class="fas fa-envelope mr-1" aria-hidden="true"></i>
+            
+            kzhou7@berkeley.edu
+          </a>
+        </li>
+        
+        
         
         
         
           
         
-        <li>
-          <a href="https://inspirehep.net/authors/1775962" target="_blank" rel="noopener">
-            <i class="ai ai-inspire big-icon"></i>
+        <li class="mb-1">
+          <a href="/other/CV.pdf" >
+            
+            Download CV
           </a>
         </li>
         
@@ -493,9 +554,8 @@
 
     </div>
   </div>
-  <div class="col-12 col-lg-8">
+  <div class="about-biography">
 
-    
     
 
     <p>I&rsquo;m a postdoctoral researcher at the UC Berkeley Leinweber Institute for Theoretical Physics.</p>
@@ -505,8 +565,6 @@
 <p>For instance, I have worked on searches for axion dark matter using superconducting cavities, now pursued in America, Europe, and China. I have also investigated infrared modifications of electromagnetism and gravity from continuous spin, new signals of axial vector dark matter, and the quantum effects of gravitational waves.</p>
 
 <p>Previously, I got my PhD at Stanford in 2024, Master&rsquo;s degrees at Cambridge and Oxford, and a Bachelor&rsquo;s degree at MIT. During that time I spent a lot of energy on physics education, and I&rsquo;m still always interested in hearing a good physics puzzle.</p>
-
-<p>I can be reached at <a href="mailto:kzhou7@berkeley.edu">kzhou7@berkeley.edu</a>, and a complete CV is available <a href="/other/CV.pdf" target="_blank">here</a>.</p>
 
 
     <div class="row">
@@ -522,1188 +580,8 @@
     </div>
   </section>
 
-  
-  
-  
 
-  
-
-  
-
-  
-
-  
-    
-    
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="publications" class="home-section wg-pages   " style="padding: 40px 0px 40px 0px;" >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Recent Papers</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-
-    <p>See the talk slides for an illustrated introduction.</p>
-
-
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  
-  <span>A. Hook</span>, <span>J. Huang</span>, <span>K. Zhou</span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    September 2026
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/axial/">Ultralight Axial Dark Matter</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p>The axial vector is the fourth and final minimal ultralight dark matter candidate, yet it has been almost unexplored. We show its signatures differ qualitatively from axions or dark photons, motivating new experiments.</p>
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2609.10671" target="_blank" rel="noopener">
-    
-    arXiv
-  </a>
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  
-  <span>Y. Bao</span>, <span>D. Y. Cheong</span>, <span>N. Rodd</span>, <span>J. Takach</span>, <span>L.-T. Wang</span>, <span>K. Zhou</span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    July 2026
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/suppression/">Suppressed Quantum Effects of Weakly Coupled Waves</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p>Intrinsically quantum effects of gravitational waves and dark matter carry extra powers of the weak coupling, relative to classical effects. This strong suppression can only be evaded using highly nonclassical detector states.</p>
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2607.27313" target="_blank" rel="noopener">
-    
-    arXiv
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://knzhou.github.io/talks/Suppression.pdf" target="_blank" rel="noopener">
-    
-    Talk slides
-  </a>
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  
-  <span>H. Day</span>, <span>R. Harnik</span>, <span>Y. Kahn</span>, <span>S. Pavaskar</span>, <span>K. Zhou</span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    November 2025
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      JHEP
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/cavityshift/">Quantum Calculations of the Cavity Shift in Electron Magnetic Moment Measurements</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p>Conducting walls have a very small, but observable effect on measurements of electron $g-2$. We compute it from first principles with quantum field theory, and show how it can be accounted for in future measurements.</p>
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2511.07514" target="_blank" rel="noopener">
-    
-    arXiv
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/JHEP03%282026%29038" target="_blank" rel="noopener">
-    
-    JHEP
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://knzhou.github.io/talks/CavityShift.pdf" target="_blank" rel="noopener">
-    
-    Talk slides
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=h6NiDAqfcdE" target="_blank" rel="noopener">
-    
-    Talk video
-  </a>
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  
-  <span>Y. Bao</span>, <span>D. Y. Cheong</span>, <span>N. Rodd</span>, <span>J. Takach</span>, <span>L.-T. Wang</span>, <span>K. Zhou</span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    October 2025
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      Phys. Rev. Lett.
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/quantum/">Intrinsically Quantum Effects of Axion Dark Matter are Undetectable</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p>Intrinsically quantum effects of axion dark matter are always highly suppressed, and in practice undetectable. Thus, even though the axion may be in a nonclassical state, it can still be treated as a classical field.</p>
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2510.05198" target="_blank" rel="noopener">
-    
-    arXiv
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://journals.aps.org/prl/abstract/10.1103/9mff-p5k6" target="_blank" rel="noopener">
-    
-    Phys. Rev. Lett.
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://knzhou.github.io/talks/QuantumAxion.pdf" target="_blank" rel="noopener">
-    
-    Talk slides
-  </a>
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  
-  <span>Z. Li</span>, <span>K. Zhou</span>, <span>M. Oriunno</span>, <span>A. Berlin</span>, <span>S. Calatroni</span>, <span>R. Tito D&rsquo;Agnolo</span>, <span>S. Ellis</span>, <span>P. Schuster</span>, <span>S. Tantawi</span>, <span>N. Toro</span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    July 2025
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      NIMA
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/heterodyne/">A Prototype Hybrid Mode Cavity for Heterodyne Axion Detection</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p>The heterodyne approach to axion detection enhances the axion signal power. A prototype cavity was designed and tested, with a novel geometry that maximizes signal, suppresses noise, and allows a wide tuning range.</p>
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2507.07173" target="_blank" rel="noopener">
-    
-    arXiv
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.nima.2026.171474" target="_blank" rel="noopener">
-    
-    NIMA
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://knzhou.github.io/talks/HeterodyneAxion.pdf" target="_blank" rel="noopener">
-    
-    Talk slides
-  </a>
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-
-    
-    <div class="see-all">
-      <a href="/publication/">
-        See all publications
-        <i class="fas fa-angle-right"></i>
-      </a>
-    </div>
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-    
-    
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="teaching" class="home-section wg-blank   " style="padding: 40px 0px 40px 0px;" >
-    <div class="container">
-      
-
-
-<div class="row">
-  
-    <div class="col-12 col-lg-4 section-heading">
-      <h1>Teaching</h1>
-      
-    </div>
-    <div class="col-12 col-lg-8">
-      
-
-<h2 id="quantum-field-theory-i-physics-330">Quantum Field Theory I (Physics 330)</h2>
-
-<p>In Autumn 2022, I was the TA for Stanford&rsquo;s introductory quantum field theory class, taught by <a href="https://sites.google.com/view/bernhardmistlberger/start" target="_blank">Prof. Bernhard Mistlberger</a>. We overhauled the course and made new problem sets, which strike a balance between traditional particle physics and connections to other fields. I gave weekly sections which laid out the big picture and trained problem-solving skills.</p>
-
-<ul>
-<li>Problem sets: <a href="/qft/PS1.pdf" target="_blank">1</a>, <a href="/qft/PS2.pdf" target="_blank">2</a>, <a href="/qft/PS3.pdf" target="_blank">3</a>, <a href="/qft/PS4.pdf" target="_blank">4</a>, <a href="/qft/PS5.pdf" target="_blank">5</a>, <a href="/qft/PS6.pdf" target="_blank">6</a>, <a href="/qft/PS7.pdf" target="_blank">7</a>, <a href="/qft/PS8.pdf" target="_blank">8</a>, <a href="/qft/PS9.pdf" target="_blank">9</a> | Solutions: <a href="/qft/PS1Sol.pdf" target="_blank">1</a>, <a href="/qft/PS2Sol.pdf" target="_blank">2</a>, <a href="/qft/PS3Sol.pdf" target="_blank">3</a>, <a href="/qft/PS4Sol.pdf" target="_blank">4</a>, <a href="/qft/PS5Sol.pdf" target="_blank">5</a>, <a href="/qft/PS6Sol.pdf" target="_blank">6</a>, <a href="/qft/PS7Sol.pdf" target="_blank">7</a>, <a href="/qft/PS8Sol.pdf" target="_blank">8</a>, <a href="/qft/PS9Sol.pdf" target="_blank">9</a></li>
-<li>Very rough section notes: <a href="/qft/Section1.pdf" target="_blank">1</a>, <a href="/qft/Section2.pdf" target="_blank">2</a>, <a href="/qft/Section3.pdf" target="_blank">3</a>, <a href="/qft/Section4.pdf" target="_blank">4</a>, <a href="/qft/Section5.pdf" target="_blank">5</a>, <a href="/qft/Section6.pdf" target="_blank">6</a>, <a href="/qft/Section7.pdf" target="_blank">7</a>, <a href="/qft/Section8.pdf" target="_blank">8</a>, <a href="/qft/Section9.pdf" target="_blank">9</a>, <a href="/qft/Section10.pdf" target="_blank">10</a></li>
-<li><a href="/qft/Exam.pdf" target="_blank">Final exam</a> | <a href="/qft/ExamSol.pdf" target="_blank">Solutions</a></li>
-</ul>
-
-<h2 id="physics-olympiad-handouts">Physics Olympiad Handouts</h2>
-
-<p>From 2019 to 2024, I coached the US Physics Team and wrote many of its exam questions and solutions, while developing a comprehensive set of training material. These handouts are the result. They contain 1,000 tricky, solved problems covering a very wide range of ideas, along with hundreds of examples and remarks. For details, see the <a href="/handouts/Syllabus.pdf" target="_blank">syllabus</a> and <a href="/handouts/FAQ.pdf" target="_blank">FAQ</a>. To see if you&rsquo;re ready to start the handouts, try the <a href="/handouts/Prelim.pdf" target="_blank">preliminary problems</a> (answers <a href="/handouts/PrelimSol.pdf" target="_blank">here</a>).</p>
-
-<h4 id="core-curriculum">Core Curriculum</h4>
-
-<ul>
-<li><a href="/handouts/P1.pdf" target="_blank">Problem Solving I</a> (<a href="/handouts/P1Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/P2.pdf" target="_blank">Problem Solving II</a> (<a href="/handouts/P2Sol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/M1.pdf" target="_blank">Mech I</a> (<a href="/handouts/M1Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/M2.pdf" target="_blank">Mech II</a> (<a href="/handouts/M2Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/M3.pdf" target="_blank">Mech III</a> (<a href="/handouts/M3Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/M4.pdf" target="_blank">Mech IV</a> (<a href="/handouts/M4Sol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/E1.pdf" target="_blank">Elec I</a> (<a href="/handouts/E1Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/E2.pdf" target="_blank">Elec II</a> (<a href="/handouts/E2Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/E3.pdf" target="_blank">Elec III</a> (<a href="/handouts/E3Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/E4.pdf" target="_blank">Elec IV</a> (<a href="/handouts/E4Sol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/M5.pdf" target="_blank">Mech V</a> (<a href="/handouts/M5Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/M6.pdf" target="_blank">Mech VI</a> (<a href="/handouts/M6Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/M7.pdf" target="_blank">Mech VII</a> (<a href="/handouts/M7Sol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/T1.pdf" target="_blank">Thermo I</a> (<a href="/handouts/T1Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/T2.pdf" target="_blank">Thermo II</a> (<a href="/handouts/T2Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/T3.pdf" target="_blank">Thermo III</a> (<a href="/handouts/T3Sol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/E5.pdf" target="_blank">Elec V</a> (<a href="/handouts/E5Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/E6.pdf" target="_blank">Elec VI</a> (<a href="/handouts/E6Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/E7.pdf" target="_blank">Elec VII</a> (<a href="/handouts/E7Sol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/R1.pdf" target="_blank">Relativity I</a> (<a href="/handouts/R1Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/R2.pdf" target="_blank">Relativity II</a> (<a href="/handouts/R2Sol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/W1.pdf" target="_blank">Waves I</a> (<a href="/handouts/W1Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/W2.pdf" target="_blank">Waves II</a> (<a href="/handouts/W2Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/X1.pdf" target="_blank">Modern I</a> (<a href="/handouts/X1Sol.pdf" target="_blank">Sol</a>)</li>
-</ul>
-
-<h4 id="supplemental-topics-review-and-practice-olympiads">Supplemental Topics, Review, and Practice Olympiads</h4>
-
-<ul>
-<li><a href="/handouts/M8.pdf" target="_blank">Mech VIII</a> (<a href="/handouts/M8Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/E8.pdf" target="_blank">Elec VIII</a> (<a href="/handouts/E8Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/R3.pdf" target="_blank">Relativity III</a> (<a href="/handouts/R3Sol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/W3.pdf" target="_blank">Waves III</a> (<a href="/handouts/W3Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/X2.pdf" target="_blank">Modern II</a> (<a href="/handouts/X2Sol.pdf" target="_blank">Sol</a>), <a href="/handouts/X3.pdf" target="_blank">Modern III</a> (<a href="/handouts/X3Sol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/MRev.pdf" target="_blank">Mech Review</a> (<a href="/handouts/MRevSol.pdf" target="_blank">Sol</a>), <a href="/handouts/ERev.pdf" target="_blank">Elec Review</a> (<a href="/handouts/ERevSol.pdf" target="_blank">Sol</a>), <a href="/handouts/XRev.pdf" target="_blank">Other Review</a> (<a href="/handouts/XRevSol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/USAPhOM.pdf" target="_blank">USAPhO-M</a> (<a href="/handouts/USAPhOMSol.pdf" target="_blank">Sol</a>), <a href="/handouts/USAPhOE.pdf" target="_blank">USAPhO-E</a> (<a href="/handouts/USAPhOESol.pdf" target="_blank">Sol</a>), <a href="/handouts/USAPhOX.pdf" target="_blank">USAPhO-X</a> (<a href="/handouts/USAPhOXSol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/USAPhOA.pdf" target="_blank">USAPhO-A</a> (<a href="/handouts/USAPhOASol.pdf" target="_blank">Sol</a>), <a href="/handouts/USAPhOB.pdf" target="_blank">USAPhO-B</a> (<a href="/handouts/USAPhOBSol.pdf" target="_blank">Sol</a>), <a href="/handouts/USAPhOC.pdf" target="_blank">USAPhO-C</a> (<a href="/handouts/USAPhOCSol.pdf" target="_blank">Sol</a>), <a href="/handouts/USAPhOD.pdf" target="_blank">USAPhO-D</a> (<a href="/handouts/USAPhODSol.pdf" target="_blank">Sol</a>)</li>
-<li><a href="/handouts/Expt.pdf" target="_blank">Expt</a> (<a href="/handouts/ExptSol.pdf" target="_blank">Sol</a>), <a href="/handouts/Final.pdf" target="_blank">Final</a> (<a href="/handouts/FinalSol.pdf" target="_blank">Sol</a>)</li>
-</ul>
-
-<p>I don&rsquo;t currently write or run the USAPhO, and I don&rsquo;t have time to tutor, but I do still update the handouts occasionally; feel free to reach out (at my personal address, <a href="mailto:kzhou7@gmail.com">kzhou7@gmail.com</a>) if you find an issue or have a suggestion. For Russian translations, see <a href="https://physics-hub.com/ru/materials?topics=676a649343982336804a8881&amp;page=1" target="_blank">Physics Hub</a>.</p>
-
-    </div>
-  
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-    
-    
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="notes" class="home-section wg-blank   " style="padding: 40px 0px 40px 0px;" >
-    <div class="container">
-      
-
-
-<div class="row">
-  
-    <div class="col-12 col-lg-4 section-heading">
-      <h1>Notes</h1>
-      
-    </div>
-    <div class="col-12 col-lg-8">
-      <p>These are my notes from learning physics at MIT, Cambridge&rsquo;s Part III and Oxford&rsquo;s MMathPhys. I use them for personal reference, but they&rsquo;re terse, and not good to learn from. If you like the style, you can download a TeX template <a href="/notes/template.zip" target="_blank">here</a>.</p>
-
-<ul>
-<li><a href="/notes/phy.pdf" target="_blank">Undergraduate Physics</a></li>
-<li><a href="/notes/mat.pdf" target="_blank">Undergraduate Math</a>, <a href="/notes/gt.pdf" target="_blank">Geometry and Topology</a>, <a href="/notes/grp.pdf" target="_blank">Group Theory</a></li>
-<li><a href="/notes/opt.pdf" target="_blank">Atomic and Optical Physics</a>, <a href="/notes/sld.pdf" target="_blank">Solid State Physics</a></li>
-<li><a href="/notes/stat.pdf" target="_blank">Statistics</a>, <a href="/notes/ml.pdf" target="_blank">Machine Learning</a>, <a href="/notes/sft.pdf" target="_blank">Statistical Field Theory</a></li>
-<li><a href="/notes/gr.pdf" target="_blank">General Relativity</a>, <a href="/notes/cos.pdf" target="_blank">Cosmology</a></li>
-<li><a href="/notes/qft.pdf" target="_blank">Quantum Field Theory</a>, <a href="/notes/sm.pdf" target="_blank">The Standard Model</a>, <a href="/notes/susy.pdf" target="_blank">Supersymmetry</a></li>
-</ul>
-
-    </div>
-  
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-    
-    
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="writing" class="home-section wg-blank   " style="padding: 40px 0px 0px 0px;" >
-    <div class="container">
-      
-
-
-<div class="row">
-  
-    <div class="col-12 col-lg-4 section-heading">
-      <h1>Writing</h1>
-      
-    </div>
-    <div class="col-12 col-lg-8">
-      
-
-<h3 id="advice">Advice</h3>
-
-<ul>
-<li><a href="/writing/Advice.pdf" target="_blank">Learning Introductory Physics</a>. A FAQ for high school students who want to start learning physics or taking part in physics competitions, such as the USAPhO.</li>
-<li><a href="/writing/AdviceAfter.pdf" target="_blank">After Introductory Physics</a>. Some tips for self-taught students on what to do after mastering the basics, including book recommendations and online resources.</li>
-<li><a href="/writing/Activities.pdf" target="_blank">Physics Activities</a>. Some places you can apply your physics knowledge in high school.</li>
-<li><a href="/writing/Minimum.pdf" target="_blank">The Theoretical Minimum</a>. A short list of canonical books you could self-study, to go from the level of introductory physics to PhD candidacy.</li>
-<li><a href="/writing/Qual.pdf" target="_blank">The Stanford Physics Qualifying Exam</a>. A transcript of my PhD qualifying exam, and advice.</li>
-</ul>
-
-<h3 id="expository">Expository</h3>
-
-<ul>
-<li><a href="https://arxiv.org/abs/2411.08283" target="_blank">The Surprising Subtlety of Electrostatic Field Lines</a> (published in <a href="https://doi.org/10.1119/5.0207201" target="_blank">AJP</a>). A fun puzzle in electrostatics and its resolution with differential geometry; coauthored with <a href="https://sites.google.com/site/braunercz/home" target="_blank">Tomáš Brauner</a>.</li>
-<li><a href="/writing/Dissertation.pdf" target="_blank">Novel Searches for Physics Beyond the Standard Model</a>. My Stanford PhD dissertation, covering several new types of experimental searches, and their motivation.</li>
-<li><a href="/writing/Relaxation.pdf" target="_blank">Cosmological Relaxation</a>. My Oxford MSc dissertation, reviewing models that &ldquo;relax&rdquo; the Higgs boson&rsquo;s mass, and motivations for model building.</li>
-<li><a href="/writing/Demuth.pdf" target="_blank">The Meaning of Nothing</a>. The New College Demuth prize essay, on how theoretical stories map onto reality, and why a physicist&rsquo;s philosophical flexibility is a useful tool. Published in the New College Record with a wonderful <a href="https://aeffen.github.io/art.html" target="_blank">illustration</a> by <a href="https://aeffen.github.io/" target="_blank">Audrey Effenberger</a>.</li>
-</ul>
-
-<h3 id="links">Links</h3>
-
-<ul>
-<li>Here are some memorable articles about <a href="https://knzhou.github.io/science/" target="_blank">science</a> and <a href="https://knzhou.github.io/articles/" target="_blank">everything else</a>.</li>
-<li>Here are some fun <a href="https://knzhou.github.io/videos/" target="_blank">videos</a> for a rainy day.</li>
-<li>My 1,000 answers on <a href="https://physics.stackexchange.com/users/83398/knzhou" target="_blank">Physics StackExchange</a> have 3 million views; here&rsquo;s a <a href="https://knzhou.github.io/answers/" target="_blank">sample</a>.</li>
-</ul>
-
-    </div>
-  
-</div>
-
-    </div>
-  </section>
-
-
+  </main>
 
       
 
@@ -1773,7 +651,7 @@
     
     
     
-    <script src="/js/academic.min.368ad8701ddf69c34950016f6435139b.js"></script>
+    <script src="/js/academic.min.9541560cb65a9f9b3f450f05ab26fb2c.js"></script>
 
     
 
@@ -1781,21 +659,6 @@
 
 
 
-
-  
-  <div class="container">
-    <footer class="site-footer">
-  <p class="clearfix">
-    <a href="#top" class="back-to-top float-right" aria-label="Back to top">
-      <span class="button_icon">
-        <i class="fas fa-chevron-up fa-2x" aria-hidden="true"></i>
-      </span>
-    </a>
-  </p>
-</footer>
-
-  </div>
-  
 
   
 <div id="modal" class="modal fade" role="dialog">
