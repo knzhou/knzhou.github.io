@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+width="54px" height="28px" viewBox="0 0 54 28" enable-background="new 0 0 54 28" xml:space="preserve" role="img" aria-labelledby="title">
+<title id="title">MIT logo</title>
+<g>
+	<rect x="39" fill="#000" width="15" height="6"/>
+	<rect x="9.75" fill="#000" width="6" height="18"/>
+	<rect x="19.5" fill="#000" width="6" height="28"/>
+	<rect fill="#000" width="6" height="28"/>
+	<rect x="39" y="10" fill="#000" width="6" height="18"/>
+	<rect x="29.25" fill="#000" width="6" height="6"/>
+	<rect x="29.25" y="10" fill="#000" width="6" height="18"/>
+</g>
+</svg>

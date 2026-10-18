@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://knzhou.github.io/</loc>
+    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/articles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/links/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/notes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/papers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/science/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/answers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/videos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://knzhou.github.io/writing/</loc>
+  </url>
+  
+</urlset>

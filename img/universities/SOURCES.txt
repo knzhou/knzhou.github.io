@@ -1,0 +1,26 @@
+University icons used beside the education entries
+
+stanford.png and cambridge.png
+Source: Flip Tanedo's website, https://particle.ucr.edu/
+Files copied unchanged from:
+https://github.com/fliptanedo/FlipWebsite2024/blob/main/static/img/logo/icon_S.png
+https://github.com/fliptanedo/FlipWebsite2024/blob/main/static/img/logo/icon_Ca.png
+Repository license: https://github.com/fliptanedo/FlipWebsite2024/blob/main/LICENSE.md
+The repository's MIT license is reproduced in reference-LICENSE.txt.
+
+oxford.svg
+Coat of arms of the University of Oxford, by ChevronTango and Wikimedia
+Commons contributors. October 31, 2022 revision (optimized by HapHaxion).
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_University_of_Oxford.svg
+https://upload.wikimedia.org/wikipedia/commons/archive/d/de/20230507012759%21Coat_of_arms_of_the_University_of_Oxford.svg
+Licensed under Creative Commons Attribution-ShareAlike 3.0:
+https://creativecommons.org/licenses/by-sa/3.0/
+Adaptation: replaced colors with black and white for the education icon.
+This adapted SVG remains under CC BY-SA 3.0.
+
+mit.svg
+MIT logo from MIT CSAIL's public logo assets:
+https://groups.csail.mit.edu/gdpgroup/assets/mitlogo/MIT-logo-black-gray-54x28.svg
+Adaptation: used a single black fill.
+
+University names and marks belong to their respective institutions.
